@@ -8,11 +8,12 @@
 #
 
 account = {
-        "user"      : 'your@login.com',
-        "password"  : 'your_password',
-        "master"    : 'minecraft_name_who_the_bot_will_listen_to',
-        "host"      : 'exampleserver.whatever.com',
-        "version"   : '1.16.5',
+        "user"      : 'csorgodavid0808@gmail.com',
+        "password"  : 'csokitacsi2020',
+        "master"    : 'Dexer2620',
+        "host"      : 'TutiSzupiSMP.aternos.me:44602
+',
+        "version"   : '1.20.4',
 }
 
 #
@@ -20,7 +21,7 @@ account = {
 #
 
 locations = {
-        "minedrop": [29,13,-19],
+        "minedrop": [-555,65,4570],
         "farmdrop": [42.5,89,-15.5],
-        "minecenter": [20.5,12,-23.5],
+        "minecenter": [-569,53,4571],
 }
